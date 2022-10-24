@@ -1,0 +1,6 @@
+C:\Users\usuario\Documents\SharpDevelop Projects\Metodologias2\Metodologias2\bin\Debug\Metodologias2.exe.config
+C:\Users\usuario\Documents\SharpDevelop Projects\Metodologias2\Metodologias2\bin\Debug\Metodologias2.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Metodologias2\Metodologias2\bin\Debug\Metodologias2.pdb
+C:\Users\usuario\Documents\SharpDevelop Projects\Metodologias2\Metodologias2\obj\Debug\Metodologias2.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\SharpDevelop Projects\Metodologias2\Metodologias2\obj\Debug\Metodologias2.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Metodologias2\Metodologias2\obj\Debug\Metodologias2.pdb
